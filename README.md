@@ -8,3 +8,4 @@ Monday
 16:00 - COMP0000 - Not a real course
 Tuesday
 etc
+https://github.com/VictorGBH/comp1238-asgn1
